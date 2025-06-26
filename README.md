@@ -45,21 +45,40 @@ The dataset contains customer transactions during Diwali, including attributes s
 ### 📈 Age Group Spending
 - Most purchases come from the **26–35** age group.
 - This age group also spends the most on products.
+  ![top age](https://github.com/user-attachments/assets/6b50d200-153d-451b-a30a-89840b852dc3)
+  ![age](https://github.com/user-attachments/assets/b48ab610-87a5-49d7-aa28-81be31cb9f67)
+
 
 ### 🏙 State-wise Sales
 - **Uttar Pradesh** recorded the **highest sales** during Diwali.
+  ![state](https://github.com/user-attachments/assets/e96aa209-06a5-4c70-9249-a4f1fd7e4579)
+
 
 ### 👚 Product Category
 - The most popular category is **Clothing & Apparel**.
+  ![product](https://github.com/user-attachments/assets/5be843f4-8bf1-4ed3-aae2-cf3ac07b77db)
+![product](https://github.com/user-attachments/assets/5be843f4-8bf1-4ed3-aae2-cf3ac07b77db)
+
 
 ### 💒 Marital Status Spending
 - **Unmarried individuals** spend more compared to married ones.
+- ![married](https://github.com/user-attachments/assets/eb4600f3-e36e-4006-88c2-34b18d3c3f70)
+![married](https://github.com/user-attachments/assets/eb4600f3-e36e-4006-88c2-34b18d3c3f70)
+
 
 ### 🏢 Occupational Insights
 - The **IT sector** contributes the highest spending during the festive period.
+  ![occupations](https://github.com/user-attachments/assets/a8d79610-7b4f-49d1-afa2-3b5effd83d14)
+![occupations](https://github.com/user-attachments/assets/a8d79610-7b4f-49d1-afa2-3b5effd83d14)
+
 
 ### 🌍 Heatmap of Sales
 - A heatmap visualizes **sales by state and product category** to show where specific products perform best geographically.
+  ![heatmap](https://github.com/user-attachments/assets/22f440b7-4873-4029-af89-de8fe867ba89)
+![heatmap](https://github.com/user-attachments/assets/22f440b7-4873-4029-af89-de8fe867ba89)
+![Uploading heatmap.png…]()
+![Uploading heatmap.png…]()
+
 
 ---
 
