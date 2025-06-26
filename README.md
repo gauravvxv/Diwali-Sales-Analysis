@@ -39,6 +39,8 @@ The dataset contains customer transactions during Diwali, including attributes s
 
 ### 👥 Gender-Based Analysis
 - 70% of buyers are **female**, and 30% are **male**.
+  ![gender](https://github.com/user-attachments/assets/53c161cd-8d82-4b7c-b36f-3186e8b2ba91)
+
 
 ### 📈 Age Group Spending
 - Most purchases come from the **26–35** age group.
